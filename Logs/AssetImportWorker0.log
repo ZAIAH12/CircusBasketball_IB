@@ -130,3 +130,4 @@ Received Import Request.
 Start importing Assets/MaterialsIB/WallsIB.mat using Guid(db780f8e8c70ea042a4f7567669b3254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe62c10c6999ea3ef2b84e6ca879d9a') in 0.045722 seconds
   Import took 0.052986 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
